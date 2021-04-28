@@ -1,0 +1,104 @@
+@charset "UTF-8"
+#ho{
+    smkdhflkajflkj
+}
+.hea{
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-style: italic;
+    color: orange;}
+    .p{
+    font-size: large;
+    font-family: sans-serif;
+    font-style: italic;
+    color: green;}
+    .h{
+    font-size: x-large;
+    font-family: sans-serif;
+    font-style: italic;
+    color: blue;}
+    
+    a:-webkit-any-link{
+        text-decoration: none;
+        color: green;}
+.annapurnareflectionimg {
+  width: 500px;
+  height: 300px;
+  margin: 20px 20px;
+  float: right;
+}
+.pokharamap {
+  width: 500px;
+  height: 300px;
+  margin: 20px 20px;
+  float: left;
+}
+#navbar-collapse {
+  font-size: 1.5em;
+}
+.bodyheader {
+  font-size: 1.5em;
+  text-align: center;
+}
+.bg-light {
+  background-color: rgb(230 208 96) !important;
+}
+a.navbar-brand {
+  font-size: 1.5em;
+}
+.bannertext {
+  text-align: right;
+  background-color: green;
+}
+
+.pageheading {
+  font-size: 20px;
+  font-style: oblique;
+}
+
+.mainnavbar ul li {
+  display: inline-block;
+  height: 30px;
+  margin: 20px 20px;
+}
+
+img.logo {
+  width: 150px;
+  padding: 15px;
+  border-radius: 50%;
+}
+.bannertext {
+  margin-left: 20px;
+  font-size: 30px;
+  color: white;
+}
+
+.indexparagraph {
+  background-image: url("images/nepalmap.jpg");
+  background-repeat: no-repeat;
+}
+
+.bodyparagraphs {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  text-align: justify;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1em;
+}
+.historyofnepalbgimg1 {
+  padding: 1em 1em;
+  width: 450px;
+  float: left;
+}
+.footer {
+  height: 3em;
+  color: cadetblue;
+  text-align: center;
+  background-color: cadetblue;
+  padding-top: 1.5em;}
+.backgroundcolor{
+    background-color: green;
+}
+.navbarbackgroundcolor {
+  background-color: green;
+}
